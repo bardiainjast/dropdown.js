@@ -229,7 +229,7 @@
             return;
           }
           $(".dropdownjs > ul > li").attr("tabindex", -1);
-          $(".dropdownjs > input").not($(this)).removeClass("focus").blur();
+          $(".dropdownjs > input.focus").not($(this)).removeClass("focus").blur();
 
           $(".dropdownjs > ul > li").not(".dropdownjs-add").attr("tabindex", 0);
 

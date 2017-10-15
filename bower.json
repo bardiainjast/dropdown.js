@@ -1,7 +1,7 @@
 {
-  "name": "dropdown.js",
-  "version": "0.0.2dev",
-  "homepage": "https://github.com/FezVrasta/dropdown.js",
+  "name": "dropdown_js",
+  "version": "0.0",
+  "homepage": "https://github.com/bardiainjast/dropdown.js",
   "authors": [
     "Federico Zivolo <info@mywebexpression.com>"
   ],
